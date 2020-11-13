@@ -1,0 +1,15 @@
+{
+  "name": "ETH102",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "truffle test",
+    "ganache": "ganache-cli",
+    "compile": "truffle compile"
+  },
+  "dependencies": {
+    "ganache-cli": "^6.12.1",
+    "truffle": "^5.1.51"
+  }
+}
